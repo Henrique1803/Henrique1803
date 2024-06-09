@@ -1,7 +1,8 @@
 ### Hello, my name is Henrique Mateus Teodoro! :)
 - 📚 I'm a Computer Science Student at [UFSC](https://ufsc.br/) (3/8).
 - 💻 I'm a Computer Technician from the Federal Institute of Rio Grande do Sul.
-- 🔭 I'm currently working on [PET Computação](https://petcomputacao.ufsc.br/).
+- 🔭 I'm currently working on [Laboratório Bridge](https://portal.bridge.ufsc.br/).
+- 🎯 I’m currently learning `Full Stack Development`
 - 📫 How to reach me: henriquemateusteodoro@gmail.com
 <div>
   <a href="https://github.com/Henrique1803">
