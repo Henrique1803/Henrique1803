@@ -6,5 +6,5 @@
 - 📫 How to reach me: henriquemateusteodoro@gmail.com
 <div>
   <a href="https://github.com/Henrique1803">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique1803&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique1803&layout=compact&langs_count=6&theme=github_dark"/>
 </div><br>
